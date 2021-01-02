@@ -1,6 +1,7 @@
-Git - Commit Message Convention
+# Git - Commit Message Convention
+깃 커밋 메세지 컨벤션입니다. 유다시티의 커밋 메세지 컨벤션을 참조한 자료입니다.
 
-1. Message Structure
+## Message Structure
 
 ```
 type : subject
@@ -10,7 +11,7 @@ body
 footer
 
 ```
-2. Commit Type
+## Commit Type
 
 - feat : A new feature
 - fix : A bug fix
@@ -19,21 +20,21 @@ footer
 - refactor : Refactoring production code
 - test : Adding tests, refactoring test; no production code chage
 - chore : Updating build tasks, package manager configs, etc; no production code change
-3. Subject
+## Subject
 
 - 제목은 50자를 넘기지 않고, 대문자로 시작하고 마침표를 붙이지 않는다.
 - 명령어를사용한다.    
 
-4. Body
+## Body
 
 - 선택사항이
 - 방법이 아닌 커멋의 내용과 이유를 설명하기 위해 작성한다.
 - title과 body는 한 줄을 띄어주고 72자를 넘기지 않는다.
-5. footer
+## footer
 
 - 선택사항
 - issue tracker id를 참조하는 데 사용한다.
-6. Example
+## Example
 
 ```
 feat: Summarize changes in around 50 characters or less
