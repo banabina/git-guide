@@ -23,7 +23,8 @@ git init
 
 git  설정
 ```
-git config --global user.name "{User name}"
+git config --global user.name "{User name}" 
+git config --global user.email "{User email}"
 ```
 원격 저장소로부터 복제 
 
