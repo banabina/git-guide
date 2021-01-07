@@ -50,11 +50,6 @@ git add {파일명}
 git add * 
 ```
 
-git add 취소
-```
-git reset HEAD {} 
-```
-
 커밋
 
 ```
