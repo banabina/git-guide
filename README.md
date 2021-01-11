@@ -7,6 +7,9 @@
 ### git-convention.md
 깃 메세지 컨벤션 정리
 
+### git-ignore.md
+.gitignore 작성 
+
 ### README 참고자료 
 https://github.com/matiassingers/awesome-readme
 
