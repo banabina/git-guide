@@ -115,6 +115,8 @@ $ git reset --hard HEAD // 마지막 커밋 상태로 되돌림
 $ git reset HEAD * // 스테이징을 언스테이징으로 변경, ref
 ```
 
+## 취소 관련
+https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 
 ## Branch
 
